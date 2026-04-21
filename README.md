@@ -13,7 +13,6 @@ I use GitHub to:
 
 **Fun facts:**
 - I started coding in PU with C, C++, HTML, and SQL
-- Demon Slayer is my favorite anime
 - I enjoy breaking problems into small steps and debugging them  
 - Outside code: music, games, and learning new tech
 
